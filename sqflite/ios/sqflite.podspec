@@ -12,8 +12,8 @@ A new flutter plugin project.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { "git" => "https://github.com/CodeEagle/sqflite.git" }
-  s.source_files = 'sqflite/sqflite/ios/Classes/**/*'
-  s.public_header_files = 'sqflite/sqflite/ios/Classes/**/*.h'
+  s.source_files = 'sqflite/ios/Classes/**/*'
+  s.public_header_files = 'sqflite/ios/Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'FMDB', '~> 2.7.2'
   
