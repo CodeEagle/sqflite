@@ -11,7 +11,7 @@ A new flutter plugin project.
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
-  s.source           = { :path => '.' }
+  s.source           = { "git" => "https://github.com/CodeEagle/sqflite.git" }
   s.source_files = 'sqflite/sqflite/ios/Classes/**/*'
   s.public_header_files = 'sqflite/sqflite/ios/Classes/**/*.h'
   s.dependency 'Flutter'
